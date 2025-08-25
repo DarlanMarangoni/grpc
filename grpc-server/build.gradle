@@ -7,7 +7,7 @@ plugins {
 
 group = 'com.darlanmarangoni'
 version = '0.0.1-SNAPSHOT'
-description = 'grpc'
+description = 'grpc-server'
 
 java {
     toolchain {
